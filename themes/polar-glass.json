@@ -3,9 +3,33 @@
   "glass": true,
   "colors": {
     "editorBackground": "#edf4f8",
+    "editorLineNumberForeground": "#7b98ac",
+    "editorCursorForeground": "#1677b8",
+    "editorSelectionBackground": "#b9d8ec",
+    "editorLineHighlightBackground": "#e4eff5",
     "sidebarBackground": "#d9e7f0",
+    "sidebarForeground": "#27465d",
+    "activityBarBackground": "#c9dce8",
+    "activityBarForeground": "#24465f",
+    "tabBarBackground": "#d8e7f0",
+    "tabActiveBackground": "#edf4f8",
+    "tabActiveForeground": "#183044",
+    "tabInactiveBackground": "#d8e7f0",
+    "tabInactiveForeground": "#59778d",
     "panelBackground": "#e4eef4",
+    "statusBarBackground": "#bfdae9",
+    "statusBarForeground": "#183044",
     "foreground": "#183044",
-    "accent": "#1677b8"
+    "accent": "#1677b8",
+    "focusBorder": "#1677b8",
+    "inputBackground": "#f8fbfd",
+    "inputForeground": "#183044",
+    "buttonBackground": "#1677b8",
+    "buttonForeground": "#ffffff"
+  },
+  "sizes": {
+    "uiFontSize": 13,
+    "editorFontSize": 14,
+    "cornerRadius": 12
   }
 }
