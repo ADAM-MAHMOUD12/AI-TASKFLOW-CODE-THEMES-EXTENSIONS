@@ -1,0 +1,11 @@
+{
+  "name": "Polar Glass",
+  "glass": true,
+  "colors": {
+    "editorBackground": "#edf4f8",
+    "sidebarBackground": "#d9e7f0",
+    "panelBackground": "#e4eef4",
+    "foreground": "#183044",
+    "accent": "#1677b8"
+  }
+}

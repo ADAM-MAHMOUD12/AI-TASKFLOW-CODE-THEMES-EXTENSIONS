@@ -1,0 +1,11 @@
+{
+  "name": "TaskFlow Glass",
+  "glass": true,
+  "colors": {
+    "editorBackground": "#171a21",
+    "sidebarBackground": "#202630",
+    "panelBackground": "#1b2028",
+    "foreground": "#e6eaf0",
+    "accent": "#8bc5ff"
+  }
+}
